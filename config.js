@@ -1,38 +1,32 @@
 const CONFIG = {
 
-    introTitle: 'Babe à!',
+    introTitle: 'Này cậu!',
 
-    introDesc: `Trái đất vốn lạ thường
+    introDesc: `Tớ có điều muốn hỏi`,
 
-    Mà sao em cứ đi nhầm đường
+    btnIntro: 'Hỏi đi',
 
-    Lạc vào tim anh lẻ loi
+    title: 'Cậu đang thik tớ đúng không? 😙',
 
-    Đằng sau chữ yêu đây là thương`,
+    desc: 'Phải trả lời thật lòng nha',
 
-    btnIntro: 'hihi',
+    btnYes: 'Vâng! Tớ rất là thik cậu <33',
 
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
+    btnNo: 'Không nha :3',
 
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
+    question:'Trên thế giới hơn 7 tỉ người mà sao cậu lại thik tớ <3',
 
-    btnYes: 'Vẫn cứ là thích anh <33',
+    btnReply: 'Gửi cho cậu <3',
 
-    btnNo: 'Không, Anh trai à :3',
+    reply: 'Vì cậu rất ngầu và đẹp trai >_<',
 
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
+    mess: 'Tớ biết mà 🥰. Thật ra tớ cũng rất là thik cậu 😘😘',
 
-    btnReply: 'Gửi cho anh <3',
-
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    messDesc: 'Vậy từ giờ trở đi chúng ta là người yêu của nhau rôi nha.',
 
     btnAccept: 'Okiiiii lun <3',
 
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://m.me/100010557631588 ' //link mess của các bạn. VD: https://m.me/nam.nodemy
 
 }
 
