@@ -18,11 +18,11 @@ const CONFIG = {
 
     btnReply: 'Gửi cho Việt <3',
 
-    reply: 'Vìmh đẹp trai dễ mến thân thiện >_<',
+    reply: 'Vình đẹp trai dễ mến thân thiện >_<',
 
     mess: 't biết mà 😘😘',
 
-    messDesc: 'vậy là hết hơn nha',
+    messDesc: 'vậy là hết hơn nha Linh xinh đẹp',
 
     btnAccept: 'Okiiii lun <3',
 
