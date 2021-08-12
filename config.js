@@ -1,12 +1,12 @@
 const CONFIG = {
 
-    introTitle: 'Lan ơi!',
+    introTitle: 'Linh ơi!',
 
     introDesc: `T có điều muốn nói`,
 
     btnIntro: 'Nói đi',
 
-    title: 'Linh xinh đẹp, rộng lượng sẽ tha thứ cho sai lầm của Việt 😙',
+    title: 'Linh sẽ tha thứ cho sai lầm của Việt 😙',
 
     desc: 'Phải trả lời thật lòng nha',
 
