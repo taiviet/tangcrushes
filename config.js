@@ -24,7 +24,7 @@ const CONFIG = {
 
     messDesc: 'Vậy từ giờ trở đi chúng ta là người yêu của nhau rôi nha.',
 
-    btnAccept: 'Okiiiii lun <3',
+    btnAccept: 'Okiiii lun <3',
 
     messLink: 'https://m.me/taiviet.nguyen.1/'
 
