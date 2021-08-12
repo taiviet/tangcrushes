@@ -20,7 +20,7 @@ const CONFIG = {
 
     reply: 'Vì cậu rất ngầu và đẹp trai >_<',
 
-    mess: 'Tớ biết mà 🥰. Thật ra tớ cũng rất là thik cậu 😘😘',
+    mess: 'Tớ biết mà 🥰. Thật ra tớ k thích bc cậu 😘😘',
 
     messDesc: 'Vậy từ giờ trở đi chúng ta là người yêu của nhau rôi nha.',
 
