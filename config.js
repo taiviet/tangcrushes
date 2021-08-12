@@ -1,20 +1,20 @@
 const CONFIG = {
 
-    introTitle: 'Này cậu!',
+    introTitle: 'Này Hoàng!',
 
     introDesc: `Tớ có điều muốn hỏi`,
 
     btnIntro: 'Hỏi đi',
 
-    title: 'Cậu đang thik tớ đúng không? 😙',
+    title: 'Cậu đang thik bc đúng không? 😙',
 
     desc: 'Phải trả lời thật lòng nha',
 
-    btnYes: 'Vâng! Tớ rất là thik cậu <33',
+    btnYes: 'Vâng! Tớ rất là bc <33',
 
     btnNo: 'Không nha :3',
 
-    question:'Trên thế giới hơn 7 tỉ người mà sao cậu lại thik tớ <3',
+    question:'Trên thế giới hơn 7 tỉ người mà sao cậu lại bc tớ <3',
 
     btnReply: 'Gửi cho cậu <3',
 
