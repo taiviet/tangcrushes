@@ -1,6 +1,6 @@
 const CONFIG = {
 
-    introTitle: 'Linh xinh đẹp ơi!',
+    introTitle: 'Linh ơi!',
 
     introDesc: `T có điều muốn nói`,
 
