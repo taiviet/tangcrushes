@@ -1,28 +1,28 @@
 const CONFIG = {
 
-    introTitle: 'Linh ơi!',
+    introTitle: 'Lan ơi!',
 
-    introDesc: `T có điều muốn nói`,
+    introDesc: `A có điều muốn nói`,
 
     btnIntro: 'Nói đi',
 
-    title: 'Linh xinh đẹp rộng lượng sẽ tha thứ cho sai lầm của Việt 😙',
+    title: 'e có thể làm cho anh một bức tranh treo trong nhà hk 😙',
 
     desc: 'Phải trả lời thật lòng nha',
 
-    btnYes: 'tao sẽ tha thứ nhưng là lần cuối nha ',
+    btnYes: 'ok anh, a phải treo trong nhà ',
 
-    btnNo: 'Không, t k mún thấy mặt chó m  :3',
+    btnNo: 'Không, e bận lắm  :3',
 
-    question:'Tại sao Linh lại tha thứ cho sai lầm đáng trách của Việt',
+    question:'Tại sao e lại làm tặng anh',
 
-    btnReply: 'Gửi cho cậu <3',
+    btnReply: 'Gửi cho anh <3',
 
-    reply: 'Vì m rất ngầu và đẹp trai và k thể hờn đc >_<',
+    reply: 'Vì anh đẹp trai dễ mến thân thiện và do dịch e rảnh >_<',
 
-    mess: 'T biết mà 🥰. Thật ra t cũng thấy z 😘😘',
+    mess: 'anh biết mà 😘😘',
 
-    messDesc: 'Vậy từ giờ trở đi Linh hết hơn rồi nha',
+    messDesc: 'Vậy xong tấm đang làm là làm tặng anh luôn nha',
 
     btnAccept: 'Okiii lun <3',
 
