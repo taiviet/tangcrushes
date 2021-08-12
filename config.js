@@ -26,7 +26,7 @@ const CONFIG = {
 
     btnAccept: 'Okiiiii lun <3',
 
-    messLink: 'https://n.me/taiviet.nguyen.1/'
+    messLink: 'https://m.me/taiviet.nguyen.1/'
 
 }
 
