@@ -6,13 +6,13 @@ const CONFIG = {
 
     btnIntro: 'Nói đi',
 
-    title: 'Linh xinh đẹp, rộng lượng sẽ tha thứ cho lỗi lầm của Việt vô tình gây ra mà đúng hk 😙',
+    title: 'Linh xinh đẹp, 😙',
 
     desc: 'Phải trả lời thật lòng nha',
 
-    btnYes: 'tao sẽ tha thứ cho m nhưng đây sẽ là lần cuối',
+    btnYes: 'tao sẽ tha thứ ',
 
-    btnNo: 'Không, m cút đi. t không muốn thấy m :3',
+    btnNo: 'Không,  :3',
 
     question:'Trên thế giới hơn 7 tỉ người mà sao cậu lại bc tớ <3',
 
