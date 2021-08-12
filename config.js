@@ -1,18 +1,18 @@
 const CONFIG = {
 
-    introTitle: 'Này Hoàng!',
+    introTitle: 'Linh xinh đẹp ơi!',
 
-    introDesc: `Tớ có điều muốn hỏi`,
+    introDesc: `Tớ có điều muốn nói`,
 
-    btnIntro: 'Hỏi đi',
+    btnIntro: 'Nói đi',
 
-    title: 'Cậu đang thik bc đúng không? 😙',
+    title: 'Linh xinh đẹp, rộng lượng sẽ tha thứ cho lỗi lầm của Việt vô tình gây ra mà đúng hk 😙',
 
     desc: 'Phải trả lời thật lòng nha',
 
-    btnYes: 'Vâng! Tớ rất là bc <33',
+    btnYes: 'tao sẽ tha thứ cho m nhưng đây sẽ là lần cuối',
 
-    btnNo: 'Không nha :3',
+    btnNo: 'Không, m cút đi. t không muốn thấy m :3',
 
     question:'Trên thế giới hơn 7 tỉ người mà sao cậu lại bc tớ <3',
 
