@@ -6,7 +6,7 @@ const CONFIG = {
 
     btnIntro: 'Nói đi',
 
-    title: 'Linh xinh đẹp có thể tha thứ cho sai làm của Việt 😙',
+    title: 'Linh xinh đẹp rộng lượng có thể tha thứ cho sai làm của Việt 😙',
 
     desc: 'Phải trả lời thật lòng nha',
 
