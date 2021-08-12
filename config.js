@@ -26,7 +26,7 @@ const CONFIG = {
 
     btnAccept: 'Okiiiii lun <3',
 
-    messLink: 'https://www.facebook.com/messages/t/100013865839657 '' https://www.messenger.com/t/100013865839657'
+    messLink: 'https://n.me/taiviet.nguyen.1/'
 
 }
 
